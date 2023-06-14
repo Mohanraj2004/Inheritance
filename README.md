@@ -1,4 +1,4 @@
-## HIERARCHICAL INHERITANCE
+##	EX-NO-8 HIERARCHICAL INHERITANCE
 ### AIM:
 To write a C# program to print some messages using hierarchical inheritance
 
